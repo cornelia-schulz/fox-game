@@ -1,0 +1,28 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "Fun frontend project using HTML, CSS and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornelia-schulz/fox-game.git"
+  },
+  "keywords": [
+    "fox",
+    "frontend",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Frontend",
+    "Masters"
+  ],
+  "author": "Cornelia Schulz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornelia-schulz/fox-game/issues"
+  },
+  "homepage": "https://github.com/cornelia-schulz/fox-game#readme"
+}

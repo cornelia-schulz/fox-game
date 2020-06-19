@@ -90,15 +90,18 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  background-color: blueviolet;
   color: white;
-  padding: 25px;
   font-size: 20px;
   font-weight: bold;
 }
 
 .modal:empty {
   display: none;
+}
+
+.modal-inner {
+  background-color: blueviolet;
+  padding: 25px;
 }
 
 .modal-inner:empty {

@@ -155,7 +155,6 @@ const gameState = {
         this.changeWeather();
         break;
       case 'poop':
-        console.log('cleanup poop')
         this.cleanUpPoop();
         break;
       case 'fish':
